@@ -75,11 +75,14 @@ input, select, textarea {
 .fa-instagram {color: black;
 top: 20px; bottom: 30px;}
 
-.fa-github {color: black;
+.fa-linkedin-square {color: black;
 top: 20px; bottom: 30px; left: 10px;}
 
 .fa-envelope-o {color: black;
 top: 20px; bottom: 30px; left: 20px;}
+
+.fa-arrow-right {color: black
+top: 20px; width: 20px;}
 /* Row */
 
 	.row {
